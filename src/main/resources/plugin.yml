@@ -1,0 +1,5 @@
+name: Findclue
+version: "${version}"
+main: $mainClass$
+depend:
+  - CYANKOTLINLOADER
