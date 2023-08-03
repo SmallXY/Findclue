@@ -1,4 +1,4 @@
-![Apex的线索但在MineCraft.png](Apex的线索但在MineCraft.png)
+![封面](image.png)
 
 
 # Command
