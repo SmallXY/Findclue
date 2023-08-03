@@ -1,0 +1,5 @@
+name: FindClue
+version: "1.0.0"
+main: cn.cyanbukkit.FindClue
+depend:
+  - CYANKOTLINLOADER

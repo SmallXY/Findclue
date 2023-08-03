@@ -1,5 +1,5 @@
-name: Findclue
+name: FindClue
 version: "${version}"
-main: $mainClass$
+main: cn.cyanbukkit.FindClue
 depend:
   - CYANKOTLINLOADER
